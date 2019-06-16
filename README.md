@@ -5,7 +5,7 @@ A estrutura de um projeto utilizando NodeJS no Back-End
 
 ## Como instalar
 ```git
-git clone https://github.com/ViniciusAlencarDev/EduPRO.git
+git clone https://github.com/ViniciusAlencarDev/Estrutura-Basica-Projeto-NodeJS.git
 ```
 
 ### Instalando as dependências
